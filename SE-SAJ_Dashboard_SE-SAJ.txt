@@ -4,7 +4,7 @@
       "name": "CSB CPN précoce",
       "type": "indicator",
       "dhisID": "g2NF4Z3cbj3",
-      "dhisName": "CSB MSR Taux de CPN précoce <4mois",
+      "dhisName": "CSB PF Taux de couverture contraceptive 10-24 ans Toutes méthodes",
       "groupCode": "G1"
     },
     {
