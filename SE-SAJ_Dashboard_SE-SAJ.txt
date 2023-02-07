@@ -1,177 +1,131 @@
 {
   "indicators": [
     {
-      "name": "CSB CPN précoce",
+      "name": "Taux de couverture contraceptive",
       "type": "indicator",
-      "dhisID": "g2NF4Z3cbj3",
+      "dhisID": "LZOMImJNUHC",
       "dhisName": "CSB PF Taux de couverture contraceptive 10-24 ans Toutes méthodes",
       "groupCode": "G1"
     },
     {
-      "name": "CSB CPN1",
+      "name": "Taux de CPN1 chez les FE - de 18 ans",
       "type": "indicator",
-      "dhisID": "vseXEsxYqEN",
-      "dhisName": "CSB MSR Taux de couverture en CPN1",
-      "groupCode": "G1"
-    },
-    {
-      "name": "CHRD CPN1",
-      "type": "indicator",
-      "dhisID": "TAtqlBAAMQX",
-      "dhisName": "CHRD Proportion Femmes enceintes vues en 1ère CPN",
-      "groupCode": "G1"
-    },
-    {
-      "name": "CSB CPN4+",
-      "type": "indicator",
-      "dhisID": "TuU9jZHMAXr",
-      "dhisName": "CSB MSR Taux de couverture en CPN4 et Plus",
-      "groupCode": "G1"
-    },
-    {
-      "name": "CHRD CPN4+",
-      "type": "indicator",
-      "dhisID": "SBgRM6P8WE8",
-      "dhisName": "CHRD Proportion Femmes enceintes ayant effectué 4 CPN et plus ",
-      "groupCode": "G1"
-    },
-    {
-      "name": "CSB accouchement ",
-      "type": "indicator",
-      "dhisID": "rZ284PLILin",
-      "dhisName": "CSB MSR Taux d'accouchement Total FS",
+      "dhisID": "nyEjQKagzU2",
+      "dhisName": "CSB MSR Taux de CPN1 chez les femmes enceintes moins de 18 ans",
       "groupCode": "G2"
     },
     {
-      "name": "CHRD accouchement",
+      "name": "Proportion de CPN1 FE - de 18 ans",
       "type": "indicator",
-      "dhisID": "VPkbQLAolwg",
-      "dhisName": "CHRD Taux d’utilisation des accouchements à la Maternité",
+      "dhisID": "Ixzg9HIUYHZ",
+      "dhisName": "CHRD MSR Proportion de CPN1 chez les femmes enceintes moins de 18 ans",
       "groupCode": "G2"
     },
     {
-      "name": "CSB N-né < 2500g",
+      "name": "Enfants -de 5 ans diarrhées",
       "type": "indicator",
-      "dhisID": "nHdWxA7cFvB",
-      "dhisName": "CSB MSR Proportion de nouveau-nés < 2500g",
-      "groupCode": "G2"
-    },
-    {
-      "name": "CHRD OC",
-      "type": "indicator",
-      "dhisID": "UO1ZZjdOXEk",
-      "dhisName": "CHRD Taux des Opérations Cesariennes au niveau hôpitaux",
-      "groupCode": "G2"
-    },
-    {
-      "name": "CSB Avortement",
-      "type": "indicator",
-      "dhisID": "EVNMRpf4gLB",
-      "dhisName": "CSB Proportion d'avortement ",
-      "groupCode": "G2"
-    },
-    {
-      "name": "CSB complication accouchement",
-      "type": "indicator",
-      "dhisID": "mORrsXxs7Qx",
-      "dhisName": "CSB MSR Proportion de complication accouchement": "G2"
-    },
-    {
-      "name": "COM # accouchement  à domicile",
-      "type": "indicator",
-      "dhisID": "Suffndxj7da",
-      "dhisName": "RMA_COM Nombre d' Accouchement  à domicile": "G2"
-    },
-    {
-      "name": "CSB CPoN 3 à 14 jours",
-      "type": "indicator",CSB MSR Proportion de complication accouchement
-      "dhisID": "OoAuAjNMCkj",
-      "dhisName": "CSB MSR Taux de couverture en Consultation Post Natale dans les 3 à 14 jours",
+      "dhisID": "HVfBNrvk8kX",
+      "dhisName": "CSB PCIME Proportion d'enfants moins de 5 ans correctement prise en charge pour cas de diarrhées",
       "groupCode": "G3"
     },
     {
-      "name": "CSB décès maternel",
+      "name": "Enfants - de 5 ans pneumonie",
       "type": "indicator",
-      "dhisID": "zdVeI0RoIOj",
-      "dhisName": "CSB MSR Proportion de décès maternel",
+      "dhisID": "SbiaLF3j9H3",
+      "dhisName": "CSB PCIME Proportion d'enfants moins de 5 ans correctement prise en charge pour pneumonie",
+      "groupCode": "G3"
+    },
+    {
+      "name": "Paludisme simple confirmés traité par ACT",
+      "type": "indicator",
+      "dhisID": "kcrink1PKc7",
+      "dhisName": "CSB Proportion de cas de paludisme  simple confirmés traité par ACT  (enfants < 5 ans)",
+      "groupCode": "G3"
+    },
+    {
+      "name": "Paludisme simple",
+      "type": "indicator",
+      "dhisID": "sa5YnGTrf5H",
+      "dhisName": "CHRD Proportion de Paludisme simple",
+      "groupCode": "G3"
+    },
+    {
+      "name": "Proportion nouveau cas de maladies chez les enfants < 5 ans",
+      "type": "indicator",
+      "dhisID": "y3OwOk6DxwD",
+      "dhisName": "CSB Proportion nouveau cas de maladies (diarrhée, pneumonie, paludisme)  chez les enfants < 5 ans)",
+      "groupCode": "G3"
+    },
+    {
+      "name": "Disponibilité de l’Amoxicilline",
+      "type": "indicator",
+      "dhisID": "JCPUREETDKH",
+      "dhisName": "CSB FANOME Traceurs Taux de Disponibilite Amoxicilline gélule 500 mg",
       "groupCode": "G4"
     },
     {
-      "name": "CHRD décès maternel",
-      "type": "dataelement",
-      "dhisID": "nDkpPgtPi2v",
-      "dhisName": "CHRD Proportion des décès maternels ",
+      "name": "Disponibilité de l’Amoxicilline",
+      "type": "indicator",
+      "dhisID": "C9ChpGYqEbE",
+      "dhisName": "COM Taux de disponibilité en Amoxicilline 250 mg",
       "groupCode": "G4"
     },
     {
-      "name": "CSB décès néonatal",
-      "type": "dataelement",
-      "dhisID": "FJ1BRlLGlj8",
-      "dhisName": "CSB MSR Proportion de décès néonatal (0-28j)",
+      "name": "Disponibilité de Cotrimoxazole 120 mg",
+      "type": "indicator",
+      "dhisID": "t66xTMdh797",
+      "dhisName": "20.    CSB FANOME Traceurs Taux de Disponibilite Cotrimoxazole cp 120 mg": "G4"
+    },
+    {
+      "name": "Disponibilité de Cotrimoxazole 480 mg",
+      "type": "indicator",
+      "dhisID": "zqdFNTuGIcC",
+      "dhisName": "CSB FANOME Traceurs Taux de Disponibilite Cotrimoxazole cp 480 mg": "G4"
+    },
+    {
+      "name": "Disponibilité de Cotrimoxazole",
+      "type": "indicator",CSB MSR Proportion de complication accouchement
+      "dhisID": "dSttlapO8F0",
+      "dhisName": "CHRD Taux de disponibilite en Cotrimoxazole comprimé",
       "groupCode": "G4"
     },
     {
-      "name": "CHRD décès néonatal",
-      "type": "dataelement",
-      "dhisID": "t3IQ7q7xYwK",
-      "dhisName": "CHRD Proportion des décès néonataux 0-28 j",
+      "name": "Disponibilité de SRO/Zinc",
+      "type": "indicator",
+      "dhisID": "bf33m8fblCF",
+      "dhisName": "21.   CSB FANOME Traceurs Taux de Disponibilite SRO/Zinc",
       "groupCode": "G4"
     },
     {
-      "name": "CSB  Oxytocine",
+      "name": "Disponibilité en SRO",
       "type": "dataelement",
-      "dhisID": "IU2c0DA5SI0",
-      "dhisName": "CSB Intrant Gratuit MSR Taux de Disponibilite Oxytocine injectable",
-      "groupCode": "G5"
+      "dhisID": "AlTHPpDEcR3",
+      "dhisName": "COM Taux de disponibilité en SRO",
+      "groupCode": "G4"
     },
     {
-      "name": "CHRD  Oxytocine",
-      "type": "indicator",
-      "dhisID": "BC3uVoGxh1z",
-      "dhisName": "CHRD Taux de disponibilite en Oxytocine",
-      "groupCode": "G5"
-    },
-    {
-      "name": "CSB Chlorhexidine",
-      "type": "indicator",
-      "dhisID": "zseDQ6A8Q6m",
-      "dhisName": "CSB Intrant Gratuit MSR Taux de Disponibilite en Chlorhexidine",
-      "groupCode": "G5"
-    },
-    {
-      "name": "COM Chlorhexidine",
-      "type": "indicator",
-      "dhisID": "o18JraLOxf9",
-      "dhisName": "COM Taux de disponibilité en Chlorhexidine ",
-      "groupCode": "G5"
-    },
     }
   ],
   "indicatorGroup": [
     {
       "code": "G1",
-      "name": "CPN",
-      "titre": "Taux de CPN au niveau FS"
+      "name": "TCC JEUNE",
+      "titre": "Taux de Couverture Contraceptive 10 à 24ans toutes méthodes"
     },
     {
       "code": "G2",
-      "name": "Accouchement",
-      "titre": "Taux d'accouchement au niveau FS"
+      "name": "CPN JEUNE",
+      "titre": "Taux de CPN1 chez les femmes enceintes - de 18 ans"
     },
     {
       "code": "G3",
-      "name": "CPoN 3",
-      "titre": "Taux de CPoN"
+      "name": "PCIME",
+      "titre": "Proportion d'enfants - de 5 ans correctement prise en charge pour cas de diarrhées"
     },
     {
       "code": "G4",
-      "name": "Décès",
-      "titre": "Décès maternel et néonatal au niveau FS"
+      "name": "Intrants",
+      "titre": "Taux de Disponibilite Amoxicilline gélule 500 mg"
     },
     {
-      "code": "G5",
-      "name": "Intrants",
-      "titre": "Taux disponibilité des Intrants de santé au niveau FS"
-    },
-    
-    }
+      
