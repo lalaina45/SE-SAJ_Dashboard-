@@ -110,22 +110,22 @@
     {
       "code": "G1",
       "name": "TCC JEUNE",
-      "titre": "Taux de Couverture Contraceptive 10 à 24ans toutes méthodes"
+      "titre": "Taux de Couverture Contraceptive jeune"
     },
     {
       "code": "G2",
       "name": "CPN JEUNE",
-      "titre": "Taux de CPN1 chez les femmes enceintes - de 18 ans"
+      "titre": "Taux de CPN1 FE moins de 18 ans"
     },
     {
       "code": "G3",
       "name": "PCIME",
-      "titre": "Proportion d'enfants - de 5 ans correctement prise en charge pour cas de diarrhées"
+      "titre": "Proportion d'enfants < 5 ans prise en charge"
     },
     {
       "code": "G4",
       "name": "Intrants",
-      "titre": "Taux de Disponibilite Amoxicilline gélule 500 mg"
+      "titre": "Taux de disponibilité en intrants"
     },
     {
       
